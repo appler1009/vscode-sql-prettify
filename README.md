@@ -4,6 +4,8 @@ Select your SQL in the editor and instantly preview well formatted SQL in a side
 
 No extra commands, no key combinations required!
 
+> *Pretty SQL Preview extension never submits any information to any third-party websites or external APIs. All the formatting happens locally and on the fly.*
+
 ![Pretty SQL Preview Basic Features](resources/prettySqlPreview1.gif)
 
 ## Features
@@ -43,6 +45,8 @@ This extension requires Visual Studio Code version 1.60.0 or higher which was re
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+Please create an issue on [Github](https://github.com/appler1009/vscode-sql-prettify/issues) if you have any SQL statements that are not formatted as expected or if you experience any erratic behavior.
 
 If you enjoy this extension and find it helpful, consider supporting through [Buy Me a Coffee](https://buymeacoffee.com/applerk). Your contributions help me continue to improve this project and create more valuable tools for the community. Every "coffee" you buy goes a long way in motivating me to keep developing and sharing my passion for software. Thank you for your support!
 

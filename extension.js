@@ -110,7 +110,7 @@ function updatePrettifiedSQL(context) {
 }
 
 function createWebviewPanel(context) {
-  //showBMC = (Math.random() < 0.6);
+  showBMC = (Math.random() < 0.6);
 
   let newPanel = vscode.window.createWebviewPanel(
     'prettySqlPreview',
