@@ -2,7 +2,7 @@
   "name": "pretty-sql-preview",
   "displayName": "Pretty SQL Preview",
   "description": "Instant SQL Prettifier and Previewer",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "Appler",
   "keywords": [
     "sql",
